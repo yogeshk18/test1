@@ -1,0 +1,8 @@
+Terraform: 
+Terraform is an open-source infrastructure as code software tool created by HashiCorp. It allows users to define and provision infrastructure using a declarative configuration language. With Terraform, you can manage various cloud services, such as AWS, Azure, Google Cloud Platform, as well as other infrastructure components like Docker containers, Kubernetes clusters, and more.
+
+The basic workflow involves writing Terraform configuration files that describe the desired state of your infrastructure, running the terraform init command to initialize your working directory, then using terraform plan to see what changes Terraform will make, and finally executing those changes with terraform apply.
+
+Terraform's main advantages include its ability to manage infrastructure across multiple providers, its version control friendliness, and its support for reusable modules, which allows for better organization and abstraction of infrastructure code.
+
+Are you looking to learn more about how to use Terraform or perhaps something specific about it?
