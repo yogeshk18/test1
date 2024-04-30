@@ -15,3 +15,6 @@ Ansible is a powerful open-source automation tool used for configuration managem
 Ansible uses a declarative language to describe system configurations, making it easy to understand and maintain. It's widely used in DevOps and IT operations for tasks such as provisioning servers, configuring networking devices, and deploying applications.
 
 Is there anything specific you'd like to know about Ansible?
+
+
+Docker:Docker is a popular platform used for developing, shipping, and running applications within containers. Containers are lightweight, standalone, and portable environments that package everything needed to run an application, including code, runtime, system tools, and libraries.
