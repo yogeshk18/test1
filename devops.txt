@@ -6,3 +6,12 @@ The basic workflow involves writing Terraform configuration files that describe 
 Terraform's main advantages include its ability to manage infrastructure across multiple providers, its version control friendliness, and its support for reusable modules, which allows for better organization and abstraction of infrastructure code.
 
 Are you looking to learn more about how to use Terraform or perhaps something specific about it?
+
+
+
+Ansible:
+Ansible is a powerful open-source automation tool used for configuration management, application deployment, and task automation. It simplifies complex tasks like infrastructure management, software deployment, and orchestration by allowing users to describe the desired state of their systems using YAML-based playbooks. These playbooks are then executed against remote hosts over SSH, without requiring agents to be installed on them.
+
+Ansible uses a declarative language to describe system configurations, making it easy to understand and maintain. It's widely used in DevOps and IT operations for tasks such as provisioning servers, configuring networking devices, and deploying applications.
+
+Is there anything specific you'd like to know about Ansible?
